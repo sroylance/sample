@@ -56,7 +56,7 @@
       ?>
       
       <p>
-      	WHAAAAAAAAAAAAT
+      	WHAAAAAAAAAAAAAAAAAAAAAAAAAAAT
       <?php echo "This is instance <tt>{$instance_id}</tt>, {$article} <tt>{$instance_type}</tt> at <tt>{$local_ipv4}</tt>." ?>
       </p>
     </div>
